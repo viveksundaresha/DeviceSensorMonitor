@@ -1,0 +1,33 @@
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Qt files
+*.pro.user
+*.pro.user.*
+*.qmlc
+*.jsc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Executable
+*.exe
+DeviceMonitorDashboard
